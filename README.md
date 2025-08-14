@@ -6,14 +6,14 @@ This is my current **Hyprland configuration**
 
 ## 📦 Programs
 
-|----------------|--------------------------------|
-| `hyprland`     | Window manager                 |
-| `fish`         | Shell                          |
-| `kitty`        | Terminal emulator              |
-| `rofi-wayland` | App launcher                   |
-| `nvim`         | Text/code editor               |
-| `waybar`       | Status bar                     |
-|----------------|--------------------------------|
+| Program        | Purpose             |
+|----------------|---------------------|
+| `hyprland`     | Window manager      |
+| `fish`         | Shell               |
+| `kitty`        | Terminal emulator   |
+| `rofi-wayland` | App launcher        |
+| `nvim`         | Text/code editor    |
+| `waybar`       | Status bar          |
 
 ---
 
